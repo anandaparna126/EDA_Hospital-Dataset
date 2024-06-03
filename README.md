@@ -6,9 +6,6 @@ This repository contains Python code and data files for conducting Exploratory D
 ## Dataset
 The dataset used for this analysis is sourced from Kaggle and contains information about hospital records. The dataset includes various attributes such as patient demographics, medical conditions, treatment details, and more.
 
-You can download the dataset from the following link:
-[Hospital Dataset on Kaggle](link_to_the_dataset_on_kaggle)
-
 ## Files
 - `hospital_data.csv`: This CSV file contains the hospital dataset that will be used for the analysis.
 - `hospital_eda.ipynb`: Jupyter Notebook file containing the Python code for performing EDA on the hospital dataset.
@@ -41,8 +38,5 @@ The dataset used for this analysis may have its own license terms specified by K
 The code provided in this repository is available under the [MIT License](LICENSE).
 
 ## Contact
-For any inquiries or questions regarding this repository, feel free to contact [Your Name] via [Your Email].
+For any inquiries or questions regarding this repository, feel free to contact Aparna Anand via anandaparna1203@gmail.com .
 
----
-
-Feel free to customize the sections as per your specific requirements and preferences. Make sure to fill in the placeholders such as `[Your Name]`, `[Your Email]`, and `link_to_the_dataset_on_kaggle` with appropriate information.
